@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vanessa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vanessa
 =======================================================================================================================================
 
 Frontend Developer and Designer
@@ -7,7 +7,7 @@ Frontend Developer and Designer
 After graduating with a degree in design, I began working as a space planner. But several rounds of redundancy made me fall out of love and I started look around at my options. I soon realised that coding was something that literally ticked all of my boxes. I wish I'd discovered frontend development sooner, but as of now I am in my element and cannot wait to continue on this new path.
 
 *   🌍  I'm based in London, UK
-*   ✉️  You can contact me at [vanessa.oldland@outlook.com](mailto:vanessa.oldland@outlook.com)
+*   ✉️  You can email me [here](mailto:vanessa.oldland@outlook.com)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on everything!
 *   ⚡  Sarcasm is my super power
